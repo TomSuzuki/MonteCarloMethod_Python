@@ -1,2 +1,3 @@
 # MonteCarloMethod_Python
-pythonバージョン。  
+pythonバージョン  
+確率で円周率を求める
